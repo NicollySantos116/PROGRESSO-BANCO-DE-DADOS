@@ -6,3 +6,4 @@ SELECT nome,genero_musical FROM artistas;
 
 SELECT nome,genero_musical FROM artistas
 WHERE pais_origem = 'Brasil';
+
